@@ -25,9 +25,9 @@
 
 - [Paloma Rodrigues](https://github.com/prpaloma) - ***Dev***
 
-- [Fábio Afonso Farias Cavalcante()] - ***Dev***
+- [Fábio Afonso Farias Cavalcante]() - ***Dev***
   
-- [Igor Oliveira Marcondes()] - ***Dev***
+- [Igor Oliveira Marcondes]() - ***Dev***
 ---
 
 # 📊 HighTask - Sistema de Chamados
