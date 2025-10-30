@@ -1,0 +1,184 @@
+═══════════════════════════════════════════════════════════════
+             🎯 HIGHTASK - INÍCIO RÁPIDO
+        Sistema de Gerenciamento de Chamados com IA
+═══════════════════════════════════════════════════════════════
+
+📧 CREDENCIAIS DE ADMINISTRADOR PADRÃO
+───────────────────────────────────────────────────────────────
+Email:    ADM@gmail.com
+Senha:    ADM123
+Função:   Administrador (acesso total)
+
+
+🚀 PRIMEIROS PASSOS
+───────────────────────────────────────────────────────────────
+1. Faça login com as credenciais acima
+2. Crie um chamado teste para ver a IA em ação
+3. Crie usuários da sua equipe (Menu: Usuários)
+4. Atribua chamados aos técnicos
+
+
+👥 NÍVEIS DE ACESSO
+───────────────────────────────────────────────────────────────
+
+🔵 USUÁRIO COMUM
+   • Criar e editar próprios chamados
+   • Visualizar apenas seus chamados
+   • Adicionar comentários
+   • NÃO pode alterar status
+
+🟢 TÉCNICO
+   • Tudo que o usuário faz +
+   • Ver chamados atribuídos a ele
+   • Alterar status dos atribuídos
+   • Resolver chamados
+
+🔴 ADMINISTRADOR
+   • Acesso total ao sistema
+   • Gerenciar todos os chamados
+   • Criar e remover usuários
+   • Atribuir chamados a técnicos
+
+
+🤖 INTELIGÊNCIA ARTIFICIAL
+───────────────────────────────────────────────────────────────
+Ao criar um chamado:
+
+1. Digite a descrição do problema
+2. Clique em "Obter Sugestões da IA"
+3. A IA vai sugerir:
+   ✓ Categoria mais apropriada
+   ✓ Nível de prioridade
+   ✓ Soluções rápidas (até 4)
+
+Exemplos de descrições:
+• "Internet muito lenta" → Rede/Conexão
+• "Impressora não funciona" → Hardware
+• "Programa travando" → Software
+• "Esqueci minha senha" → Acesso/Segurança
+
+
+📊 PÁGINAS PRINCIPAIS
+───────────────────────────────────────────────────────────────
+Dashboard      → Estatísticas e visão geral
+Chamados       → Lista todos os chamados
+Novo Chamado   → Criar com sugestões de IA
+Usuários       → Gerenciar equipe (só admin)
+
+
+🎯 EXEMPLO DE USO COMPLETO
+───────────────────────────────────────────────────────────────
+
+PASSO 1: Como Admin
+──────────────────
+• Login: ADM@gmail.com / ADM123
+• Acesse "Usuários"
+• Crie um técnico:
+  Nome: João Silva
+  Email: joao@empresa.com
+  Senha: senha123
+  Função: Técnico
+
+• Crie um usuário:
+  Nome: Maria Santos
+  Email: maria@empresa.com
+  Senha: senha123
+  Função: Usuário
+
+PASSO 2: Como Usuário (Maria)
+─────────────────────────────
+• Faça logout
+• Login: maria@empresa.com / senha123
+• Clique "Novo Chamado"
+• Preencha:
+  Título: Impressora não imprime
+  Descrição: A impressora HP não está funcionando
+• Clique "Obter Sugestões da IA"
+• IA sugere: Hardware, Prioridade Média
+• Clique "Criar Chamado"
+
+PASSO 3: Como Admin (Você)
+──────────────────────────
+• Login novamente: ADM@gmail.com
+• Acesse "Chamados"
+• Veja o chamado da Maria
+• Clique nele
+• Na lateral direita:
+  "Atribuir a" → Selecione "João Silva"
+• Clique "Salvar Alterações"
+
+PASSO 4: Como Técnico (João)
+────────────────────────────
+• Faça logout
+• Login: joao@empresa.com / senha123
+• Veja o chamado atribuído a você
+• Clique nele
+• Altere Status: "Em Andamento"
+• Adicione comentário: "Verificando conexões"
+• Resolva o problema
+• Altere Status: "Resolvido"
+• Adicione comentário: "Cabo desconectado, resolvido!"
+
+
+🔒 REGRAS DE SEGURANÇA
+───────────────────────────────────────────────────────────────
+• Conta ADM@gmail.com NÃO pode ser removida
+• Admin não pode se auto-deletar
+• Usuários precisam 30 dias de inatividade para remoção
+• Apenas admins podem criar usuários
+• Apenas técnicos/admins alteram status
+
+
+📚 DOCUMENTAÇÃO COMPLETA
+───────────────────────────────────────────────────────────────
+README.md                  → Visão geral completa
+GUIA_RAPIDO.md            → Tutorial detalhado
+SISTEMA_PERMISSOES.md     → Sistema de permissões
+CREDENCIAIS_PADRAO.md     → Informações de login
+TECNOLOGIAS.md            → Stack técnico
+ARQUITETURA.md            → Diagramas do sistema
+CHECKLIST_IMPLEMENTACAO   → Status do projeto
+
+
+💡 DICAS IMPORTANTES
+───────────────────────────────────────────────────────────────
+✓ Use descrições claras nos chamados
+✓ Aproveite as sugestões da IA
+✓ Mantenha o status atualizado
+✓ Adicione comentários ao resolver
+✓ Feche chamados finalizados
+✓ Revise periodicamente usuários inativos
+
+
+🆘 PROBLEMAS COMUNS
+───────────────────────────────────────────────────────────────
+
+"Não consigo fazer login"
+→ Credenciais: ADM@gmail.com / ADM123
+
+"Não vejo meus chamados"
+→ Usuários veem apenas os próprios
+→ Técnicos veem apenas atribuídos
+→ Admins veem todos
+
+"Não consigo alterar status"
+→ Apenas técnicos (se atribuído) e admins podem
+
+"Erro ao remover usuário"
+→ Aguarde 30 dias de inatividade
+→ Ou é conta protegida (ADM@gmail.com)
+
+
+📞 PRÓXIMOS PASSOS
+───────────────────────────────────────────────────────────────
+1. ✅ Faça login com ADM@gmail.com
+2. ✅ Explore o dashboard
+3. ✅ Crie um chamado teste
+4. ✅ Configure sua equipe
+5. ✅ Leia GUIA_RAPIDO.md para mais detalhes
+
+
+═══════════════════════════════════════════════════════════════
+            HighTask v1.0 - 9 de outubro de 2025
+     Centralizando a gestão de chamados com inteligência!
+═══════════════════════════════════════════════════════════════
