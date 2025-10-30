@@ -19,6 +19,15 @@
 ## 🙋 Equipe:
 - [Gabriel Duarte Roxo](https://github.com/Kanekovisks) - ***P.O.***
 
+- [Renata Honorato](https://github.com/reh2212) - ***Scrum Master***
+
+- [Arreginaldo JR.](https://github.com/arreginaldo) - ***Dev***
+
+- [Paloma Rodrigues](https://github.com/prpaloma) - ***Dev***
+
+- [Fábio Afonso Farias Cavalcante()] - ***Dev***
+  
+- [Igor Oliveira Marcondes()] - ***Dev***
 ---
 
 # 📊 HighTask - Sistema de Chamados
