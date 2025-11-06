@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/Kanekovisks/Projeto-de-Sistemas/blob/docs/Documenta%C3%A7%C3%A3o/Assets/HighTaskLogo.png" width="250"/>
+<img src="https://github.com/Kanekovisks/Sistema-HighTask/blob/docs/Documenta%C3%A7%C3%A3o/Assets/HighTaskLogo.png" width="250"/>
 </div>
 
 <p align="center">
@@ -34,11 +34,11 @@ Nesse projeto foi atribuído o cenário de um empresa de médio porte onde os se
 ---
 
 ## 📃 Documentação do Sistema
-- 📑 <a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/blob/main/Documenta%C3%A7%C3%A3o/BACKLOG.md">Backlog</a>
-- 📚 <a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/tree/main/Documenta%C3%A7%C3%A3o/Diagrama">Diagramas de UML</a>
-- 📅 <a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/blob/main/Documenta%C3%A7%C3%A3o/SPRINT_BACKLOG.md">Sprint Backlog</a>
-- 📘 <a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/blob/main/Documenta%C3%A7%C3%A3o/DoD%20e%20DoR.md">DoD e DoR</a>
-- 📖 <a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/blob/main/Documenta%C3%A7%C3%A3o/Manual%20De%20Usu%C3%A1rio/">Manual do Usuário</a>
+- 📑 <a href="https://github.com/Kanekovisks/Sistema-HighTask/blob/main/Documenta%C3%A7%C3%A3o/BACKLOG.md">Backlog</a>
+- 📚 <a href="https://github.com/Kanekovisks/Sistema-HighTask/tree/main/Documenta%C3%A7%C3%A3o/Diagrama">Diagramas de UML</a>
+- 📅 <a href="https://github.com/Kanekovisks/Sistema-HighTask/blob/main/Documenta%C3%A7%C3%A3o/SPRINT_BACKLOG.md">Sprint Backlog</a>
+- 📘 <a href="https://github.com/Kanekovisks/Sistema-HighTask/blob/main/Documenta%C3%A7%C3%A3o/DoD%20e%20DoR.md">DoD e DoR</a>
+- 📖 <a href="https://github.com/Kanekovisks/Sistema-HighTask/blob/main/Documenta%C3%A7%C3%A3o/Manual%20De%20Usu%C3%A1rio/">Manual do Usuário</a>
 
 ---
 
