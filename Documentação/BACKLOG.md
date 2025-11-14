@@ -43,7 +43,7 @@
 | 30 | Média | Como administrador, quero logs de auditoria de usuários e chamados, para rastrear atividades. | 13 | Todas | RNF04 | Feito |
 | 31 | Alta | Como usuário, quero que anexos sejam armazenados de forma segura, para proteger informações sensíveis. | 8 | Todas | RNF05 | Feito |
 | 32 | Média | Como usuário, quero receber notificações por e-mail rapidamente, para acompanhar eventos do sistema. | 5 | Todas | RNF06 | Feito |
-| 33 | Alta | Como desenvolvedor, quero que o sistema use MySQL como banco de dados relacional, para estruturar os dados. | 13 | Base | RS01 | Feito |
+| 33 | Alta | Como desenvolvedor, quero que o sistema use banco de dados relacional, para estruturar os dados. | 13 | Base | RS01 | Feito |
 | 34 | Alta | Como desenvolvedor, quero um serviço de fila para e-mails e notificações, para garantir envio assíncrono. | 8 | Base | RS02 | Feito |
 | 35 | Média | Como desenvolvedor, quero um serviço de armazenamento para anexos, para manter arquivos organizados. | 8 | Base | RS03 | Feito |
 | 36 | Alta | Como desenvolvedor, quero integrar um módulo de IA, para classificar e sugerir soluções em chamados. | 21 | Base | RS04 | Feito |
