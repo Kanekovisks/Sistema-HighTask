@@ -1,0 +1,17 @@
+{
+    "adm@gmail.com": {
+        "password_hash": "43ed6b230ed643d8248c7f9d9b7a1e8389f6a666bb4e262c44021012e28f521b",
+        "role": "Administrador",
+        "author_name": "Administrador"
+    },
+    "tec@gmail.com": {
+        "password_hash": "fa05ac8f16c53bca04af0a0fac6ea22c84efeab1e512bdde6665ffe23773c23a",
+        "role": "Técnico",
+        "author_name": "Técnico"
+    },
+    "teste@gmail.com": {
+        "password_hash": "289160db0d9f39f9ae1754c4ec9c16f90b50e32e09c5fb5481ae642b3d3d1a36",
+        "role": "Usuário de Teste",
+        "author_name": "Usuário Teste"
+    }
+}
