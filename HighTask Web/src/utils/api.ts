@@ -1,6 +1,6 @@
 import { projectId, publicAnonKey } from './supabase/info';
 
-const API_BASE = `https://${projectId}.supabase.co/functions/v1/make-server-194bf14c`;
+const API_BASE = '';
 
 export interface Ticket {
   id: string;
